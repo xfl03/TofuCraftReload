@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tofucraft:material",
+    "data": 23
+  },
+  "pattern": [
+    "SSS",
+    "III",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "tofucraft:material",
+      "data": 28
+    },
+    "I": {
+      "item": "tofucraft:tofu_food",
+      "data": 2
+    }
+  }
+}
